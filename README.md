@@ -13,18 +13,18 @@ Traveling the world on a mission to discover new data
 8. Document your process and results
 
 Dataset 1 Columns
-Age         | Age of the test subject
-Height      | Height of the test subject
-Weight      | Weight of the test subject
-Gender      | Gender of the test subject
-Systolic blood pressure   | Blood pressure of the test subject
-Diastolic blood pressure  | Blood pressure of the test subject
-Cholesterol | Cholesterol levels of the test subject
-Glucose     | Glucose levels of the test subject
-Smoking     | Smoking habit gravity measurement of the test subject
-Alcohol intake    | Alcohol intake gravity measurement of the test subject
-Physical activity | Fitness levelts of the test subject
-Target | Presense of cardiovascular disease. 0 - yes; 1 - No
+1. Age         | Age of the test subject
+2. Height      | Height of the test subject
+3. Weight      | Weight of the test subject
+4. Gender      | Gender of the test subject
+5. Systolic blood pressure   | Blood pressure of the test subject
+6. Diastolic blood pressure  | Blood pressure of the test subject
+7. Cholesterol | Cholesterol levels of the test subject
+8. Glucose     | Glucose levels of the test subject
+9. Smoking     | Smoking habit gravity measurement of the test subject
+10. Alcohol intake    | Alcohol intake gravity measurement of the test subject
+11. Physical activity | Fitness levelts of the test subject
+12. Target | Presense of cardiovascular disease. 0 - yes; 1 - No
 
 Dataset 2 Columns
 age
