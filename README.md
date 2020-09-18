@@ -58,7 +58,7 @@ Traveling the world on a mission to discover new data
 
 
 
-References:
-https://www.kaggle.com/sulianova/cardiovascular-disease-dataset 
-https://www.kaggle.com/ronitf/heart-disease-uci
-https://www.kaggle.com/loganalive/echocardiogram-uci
+#### References:
+1. https://www.kaggle.com/sulianova/cardiovascular-disease-dataset 
+2. https://www.kaggle.com/ronitf/heart-disease-uci
+3. https://www.kaggle.com/loganalive/echocardiogram-uci
