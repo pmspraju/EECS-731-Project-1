@@ -1,7 +1,7 @@
 # EECS-731-Project-1
-EECS 731 Homework 1  
+## EECS 731 Homework 1  
 
-Project 1 - Jimmy Wrangler, Data Explorer
+#### Project 1 - Jimmy Wrangler, Data Explorer
 Traveling the world on a mission to discover new data
 1. Set up a data science project structure in a new git repository in your GitHub account
 2. Install Jupyter notebook prerequisites (Anaconda, Python, etc.)
@@ -12,7 +12,7 @@ Traveling the world on a mission to discover new data
 7. Transform the data sets into a single data set while following data preparation processes to clean and transform features (use pandas documentation for help)
 8. Document your process and results
 
-Dataset 1 Columns
+#### Dataset 1 Columns
 1. Age         | Age of the test subject
 2. Height      | Height of the test subject
 3. Weight      | Weight of the test subject
@@ -26,22 +26,22 @@ Dataset 1 Columns
 11. Physical activity | Fitness levelts of the test subject
 12. Target | Presense of cardiovascular disease. 0 - yes; 1 - No
 
-Dataset 2 Columns
-age
-sex
-chest pain type (4 values)
-resting blood pressure
-serum cholestoral in mg/dl
-fasting blood sugar > 120 mg/dl
-resting electrocardiographic results (values 0,1,2)
-maximum heart rate achieved
-exercise induced angina
-oldpeak = ST depression induced by exercise relative to rest
-the slope of the peak exercise ST segment
-number of major vessels (0-3) colored by flourosopy
-thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+#### Dataset 2 Columns
+1. age
+2. sex
+3. chest pain type (4 values)
+4. resting blood pressure
+5. serum cholestoral in mg/dl
+6. fasting blood sugar > 120 mg/dl
+7. resting electrocardiographic results (values 0,1,2)
+8. maximum heart rate achieved
+9. exercise induced angina
+10. oldpeak = ST depression induced by exercise relative to rest
+11. the slope of the peak exercise ST segment
+12. number of major vessels (0-3) colored by flourosopy
+13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
-Dataset 3 Columns
+#### Dataset 3 Columns
 1. survival -- the number of months patient survived (has survived, if patient is still alive). Because all the patients had their heart attacks at different times, it is possible that some patients have survived less than one year but they are still alive. Check the second variable to confirm this. Such patients cannot be used for the prediction task mentioned above.
 2. still-alive -- a binary variable. 0=dead at end of survival period, 1 means still alive
 3. age-at-heart-attack -- age in years when heart attack occurred
